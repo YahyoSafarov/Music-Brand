@@ -1,0 +1,476 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "date": {
+        "day": "15",
+        "month": "Feb"
+      },
+      "Location": {
+        "city": "Los Angels",
+        "country": "USA",
+        "address": "LA Convention Center"
+      },
+      "priceRange": "60-250$"
+    },
+
+    {
+      "id": 2,
+      "date": {
+        "day": "20",
+        "month": "Mar"
+      },
+      "Location": {
+        "city": "Rio de Janeiro",
+        "country": "Brazil",
+        "address": "Sambadrome"
+      },
+      "priceRange": "40-200$"
+    },
+
+    {
+      "id": 3,
+      "date": {
+        "day": "10",
+        "month": "May"
+      },
+      "Location": {
+        "city": "Paris",
+        "country": "France",
+        "address": "Eiffel Tower Park"
+      },
+      "priceRange": "70-300$"
+    },
+
+    {
+      "id": 4,
+      "date": {
+        "day": "25",
+        "month": "Jul"
+      },
+      "Location": {
+        "city": "Berlin",
+        "country": "Germany",
+        "address": "Berlin Exhibition Hall"
+      },
+      "priceRange": "55-280$"
+    },
+
+    {
+      "id": 5,
+      "date": {
+        "day": "06",
+        "month": "Sep"
+      },
+      "Location": {
+        "city": "Athens",
+        "country": "Greece",
+        "address": "Acropolis Amphitheatre"
+      },
+      "priceRange": "45-220$"
+    },
+
+    {
+      "id": 6,
+      "date": {
+        "day": "12",
+        "month": "Oct"
+      },
+      "Location": {
+        "city": "Bucharest",
+        "country": "Romania",
+        "address": "National Arena"
+      },
+      "priceRange": "42-260$"
+    },
+
+    {
+      "id": 7,
+      "date": {
+        "day": "03",
+        "month": "Nov"
+      },
+      "Location": {
+        "city": "Warsaw",
+        "country": "Poland",
+        "address": "PGE Narodowy"
+      },
+      "priceRange": "46-290$"
+    }
+  ],
+
+  "albums": [
+    {
+      "id": 1,
+      "img": "/assets/tracks/indila-music.jpg",
+      "name": "album 1",
+      "tracks": [
+        {
+          "name": "Serenada in D Major",
+          "src": "/assets/music/Indila - Dernière Danse.mp3"
+        },
+
+        {
+          "name": "Midnight Lullaby",
+          "src": "/assets/music/Indila - Love story   MCSC 2nd  Франция.mp3"
+        },
+
+        {
+          "name": "Whispers of the Wind",
+          "src": "/assets/music/Indila - Tourner Dans Le Vide.mp3"
+        },
+
+        {
+          "name": "Dance of the Fireflies",
+          "src": "/assets/music/Indila – Love Story.mp3"
+        },
+
+        {
+          "name": "Echoes of the Past",
+          "src": "/assets/music/Indila_Ainsi_Bas_la_vida_Edit_Audio_Slowed_+_Reverb_320_kbps.mp3"
+        },
+
+        {
+          "name": "Enchanted Dreams",
+          "src": "/assets/music/Mini World (RPTM Remix)   Indila.mp3"
+        },
+
+        {
+          "name": "Sunlight Serenity",
+          "src": "/assets/music/𝙄𝙉𝘿𝙄𝙇𝘼_𝘼𝙄𝙉𝙎𝙄_𝘽𝘼𝙎_𝙇𝘼_𝙑𝙄𝘿𝘼_𝙏𝙄𝙆_𝙏𝙊𝙆_𝙍𝙀𝙈𝙄𝙓_𝙎𝙇𝙊𝙒𝙀𝘿_rYpQZ06dIus_140.mp3"
+        },
+
+        {
+          "name": "Misty Moonlight Melody",
+          "src": "/assets/player/Indila - Derniere Danse.mp3"
+        }
+      ]
+    },
+
+    {
+      "id": 2,
+      "img": "/assets/tracks/xcho-music-2.jpg",
+      "name": "album 2",
+      "tracks": [
+        {
+          "name": "Serenada in D Major",
+          "src": "/assets/music/xcho-songs-1.mp3"
+        },
+
+        {
+          "name": "Midnight Lullaby",
+          "src": "/assets/music/xcho-songs-2.mp3"
+        },
+
+        {
+          "name": "Whispers of the Wind",
+          "src": "/assets/music/xcho-songs-3.mp3"
+        },
+
+        {
+          "name": "Dance of the Fireflies",
+          "src": "/assets/music/xcho-songs-4.mp3"
+        },
+
+        {
+          "name": "Echoes of the Past",
+          "src": "/assets/music/xcho-songs-5.mp3"
+        },
+
+        {
+          "name": "Enchanted Dreams",
+          "src": "/assets/music/xcho-songs-6.mp3"
+        },
+
+        {
+          "name": "Sunlight Serenity",
+          "src": "/assets/music/xcho-songs-7.mp3"
+        },
+
+        {
+          "name": "Misty Moonlight Melody",
+          "src": "/assets/music/xcho-songs-8.mp3"
+        }
+      ]
+    },
+
+    {
+      "id": 3,
+      "img": "/assets/tracks/eminem-music.jpg",
+      "name": "album 3",
+      "tracks": [
+        {
+          "name": "Serenada in D Major",
+          "src": "/assets/music/eminem-songs-1.mp3"
+        },
+
+        {
+          "name": "Midnight Lullaby",
+          "src": "/assets/music/eminem-songs-2.mp3"
+        },
+
+        {
+          "name": "Whispers of the Wind",
+          "src": "/assets/music/eminem-songs-3.mp3"
+        },
+
+        {
+          "name": "Dance of the Fireflies",
+          "src": "/assets/music/eminem-songs-4.mp3"
+        },
+
+        {
+          "name": "Echoes of the Past",
+          "src": "/assets/music/eminem-songs-5.mp3"
+        },
+
+        {
+          "name": "Enchanted Dreams",
+          "src": "/assets/music/eminem-songs-6.mp3"
+        },
+
+        {
+          "name": "Sunlight Serenity",
+          "src": "/assets/music/eminem-songs-4.mp3"
+        },
+
+        {
+          "name": "Misty Moonlight Melody",
+          "src": "/assets/music/eminem-songs-3.mp3"
+        }
+      ]
+    },
+
+    {
+      "id": 4,
+      "img": "/assets/tracks/marshmello-music.jpg",
+      "name": "album 4",
+      "tracks": [
+        {
+          "name": "Serenada in D Major",
+          "src": "/assets/music/marshmello-songs-1.mp3"
+        },
+
+        {
+          "name": "Midnight Lullaby",
+          "src": "/assets/music/marshmello-songs-2.mp3"
+        },
+
+        {
+          "name": "Whispers of the Wind",
+          "src": "/assets/music/marshmello-songs-3.mp3"
+        },
+
+        {
+          "name": "Dance of the Fireflies",
+          "src": "/assets/music/marshmello-songs-1.mp3"
+        },
+
+        {
+          "name": "Echoes of the Past",
+          "src": "/assets/music/marshmello-songs-5.mp3"
+        },
+
+        {
+          "name": "Enchanted Dreams",
+          "src": "/assets/music/marshmello-songs-6.mp3"
+        },
+
+        {
+          "name": "Sunlight Serenity",
+          "src": "/assets/music/marshmello-songs-2.mp3"
+        },
+
+        {
+          "name": "Misty Moonlight Melody",
+          "src": "/assets/music/marshmello-songs-2.mp3"
+        }
+      ]
+    },
+
+    {
+      "id": 5,
+      "img": "/assets/tracks/rihanna-music.webp",
+      "name": "album 5",
+      "tracks": [
+        {
+          "name": "Serenada in D Major",
+          "src": "/assets/music/rihanna-songs-1.mp3"
+        },
+
+        {
+          "name": "Midnight Lullaby",
+          "src": "/assets/music/rihanna-songs-2.mp3"
+        },
+
+        {
+          "name": "Whispers of the Wind",
+          "src": "/assets/music/rihanna-songs-1.mp3"
+        },
+
+        {
+          "name": "Dance of the Fireflies",
+          "src": "/assets/music/rihanna-songs-3.mp3"
+        },
+
+        {
+          "name": "Echoes of the Past",
+          "src": "/assets/music/rihanna-songs-2.mp3"
+        },
+
+        {
+          "name": "Enchanted Dreams",
+          "src": "/assets/music/rihanna-songs-2.mp3"
+        },
+
+        {
+          "name": "Sunlight Serenity",
+          "src": "/assets/music/rihanna-songs-2.mp3"
+        },
+
+        {
+          "name": "Misty Moonlight Melody",
+          "src": "/assets/music/rihanna-songs-2.mp3"
+        }
+      ]
+    },
+
+    {
+      "id": 6,
+      "img": "/assets/tracks/shahzoda-music.jpeg",
+      "name": "album 6",
+      "tracks": [
+        {
+          "name": "Serenada in D Major",
+          "src": "/assets/music/shahzoda-songs-3.mp3"
+        },
+
+        {
+          "name": "Midnight Lullaby",
+          "src": "/assets/music/shahzoda-songs-2.mp3"
+        },
+
+        {
+          "name": "Whispers of the Wind",
+          "src": "/assets/music/shahzoda-songs-3.mp3"
+        },
+
+        {
+          "name": "Dance of the Fireflies",
+          "src": "/assets/music/shahzoda-songs-4.mp3"
+        },
+
+        {
+          "name": "Echoes of the Past",
+          "src": "/assets/music/shahzoda-songs-5.mp3"
+        },
+
+        {
+          "name": "Enchanted Dreams",
+          "src": "/assets/music/shahzoda-songs-6.mp3"
+        },
+
+        {
+          "name": "Sunlight Serenity",
+          "src": "/assets/music/shahzoda-songs-7.mp3"
+        },
+
+        {
+          "name": "Misty Moonlight Melody",
+          "src": "/assets/music/shahzoda-songs-8.mp3"
+        }
+      ]
+    },
+
+    {
+      "id": 7,
+      "img": "/assets/tracks/konsta-music-2.jpg",
+      "name": "album 7",
+      "tracks": [
+        {
+          "name": "Serenada in D Major",
+          "src": "/assets/music/konsta-songs-1.mp3"
+        },
+
+        {
+          "name": "Midnight Lullaby",
+          "src": "/assets/music/konsta-songs-2.mp3"
+        },
+
+        {
+          "name": "Whispers of the Wind",
+          "src": "/assets/music/konsta-songs-3.mp3"
+        },
+
+        {
+          "name": "Dance of the Fireflies",
+          "src": "/assets/music/konsta-songs-4.mp3"
+        },
+
+        {
+          "name": "Echoes of the Past",
+          "src": "/assets/music/konsta-songs-5.mp3"
+        },
+
+        {
+          "name": "Enchanted Dreams",
+          "src": "/assets/music/konsta-songs-6.mp3"
+        },
+
+        {
+          "name": "Sunlight Serenity",
+          "src": "/assets/music/konsta-songs-7.mp3"
+        },
+
+        {
+          "name": "Misty Moonlight Melody",
+          "src": "/assets/music/konsta-songs-8.mp3"
+        }
+      ]
+    }
+  ],
+
+  "posts": [
+    {
+      "id": 1,
+      "date": "2023-09-21",
+      "title": "Rock Concert at Central Park",
+      "description": "Join us for an electrifying night of classic rock hits at Central Park! The lineup includes tribite bands for legendary rook icons"
+    },
+
+    {
+      "id": 2,
+      "date": "2023-09-22",
+      "title": "Jazz Jam Session",
+      "description": "Join us for an electrifying night of classic rock hits at Central Park! The lineup includes tribite bands for legendary rook icons"
+    },
+
+    {
+      "id": 3,
+      "date": "2023-09-23",
+      "title": "EDM Extravaganze",
+      "description": "Join us for an electrifying night of classic rock hits at Central Park! The lineup includes tribite bands for legendary rook icons"
+    },
+
+    {
+      "id": 4,
+      "date": "2023-09-27",
+      "title": "Accounstic Coffeehouse",
+      "description": "Join us for an electrifying night of classic rock hits at Central Park! The lineup includes tribite bands for legendary rook icons"
+    },
+
+    {
+      "id": 5,
+      "date": "2023-09-21",
+      "title": "Classical Symphony Showcase",
+      "description": "Join us for an electrifying night of classic rock hits at Central Park! The lineup includes tribite bands for legendary rook icons"
+    },
+
+    {
+      "id": 6,
+      "date": "2023-09-21",
+      "title": "Hip-Hop Dance Battle",
+      "description": "Join us for an electrifying night of classic rock hits at Central Park! The lineup includes tribite bands for legendary rook icons"
+    }
+  ]
+}
